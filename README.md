@@ -1,2 +1,2 @@
-# st-rp-chatlog-magician
+# Chatlog Magician
 Chatlog Magician for ST-RP
