@@ -1,7 +1,9 @@
 # Chatlog Magician
 Chatlog Magician, converts RedM logs into images, making screenshot editing easier. It's fully compatible with RedM ST-RP server.
 
-Shout-out to Nervous and blanco leopardo from GTA:W for letting me use their code!
+Shout-out to [Nervous and blanco leopardo](https://forum.gta.world/en/topic/133875-guide-chatlog-magician-for-gta-world/) from GTA:W for letting me use their code!
+
+
 
 ## Examples of usage
 
